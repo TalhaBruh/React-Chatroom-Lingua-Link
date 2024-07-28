@@ -139,7 +139,7 @@ The project structure follows a typical React application structure, with the ma
 
 - Portfolio: [Talha Hussain](https://my-portfolio-oohleq9z1-talhabruhs-projects.vercel.app/)
 - Linkedin: [SyedTalhaShah](https://www.linkedin.com/in/syed-talha-shah-60726a221/)
-- Email: [talhahussain349@gmail.com](mailto:berthutapea@gmail.com)
+- Email: [talhahussain349@gmail.com](mailto:talhahussain349@gmail.com)
 
 ## License
 
